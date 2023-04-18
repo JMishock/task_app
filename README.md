@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/110921145/232882111-e6384391-9ba3-4f24-9d70-d20595e38f64.png)
+
+
+
 Task App
 
 This application is part of a Udemy.com course React-The Complete Guide(incl Hooks, React Router, Redux)
